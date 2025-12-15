@@ -1,0 +1,1807 @@
+ 
+Chapter 1 – Security Principles
+________________________________________
+Q1. Security that is appropriate to the level of risk and potential harm is known as:
+A. Defense in depth
+B. Risk management
+C. Adequate security
+D. Risk avoidance
+✅ Correct Answer: Adequate security
+📝 Security controls should match the level of risk and potential damage.
+________________________________________
+Q2. Which type of control is implemented through policies, procedures, and processes?
+A. Technical controls
+B. Physical controls
+C. Administrative controls
+D. Detective controls
+✅ Correct Answer: Administrative controls
+📝 Policies, procedures, and approvals are administrative safeguards.
+________________________________________
+Q3. The ability of systems to simulate human intelligence is called:
+A. Automation
+B. Machine learning
+C. Artificial Intelligence
+D. Robotics
+✅ Correct Answer: Artificial Intelligence
+📝 AI enables systems to perform tasks that normally require human intelligence.
+________________________________________
+Q4. Anything of value owned by an organization is referred to as a(n):
+A. Resource
+B. Asset
+C. Threat
+D. Vulnerability
+✅ Correct Answer: Asset
+📝 Assets include systems, data, property, and intellectual property.
+________________________________________
+Q5. The process of verifying a user’s claimed identity is known as:
+A. Authorization
+B. Accounting
+C. Authentication
+D. Auditing
+✅ Correct Answer: Authentication
+📝 Authentication confirms who the user is.
+________________________________________
+Q6. Granting permissions to an authenticated user is called:
+A. Authentication
+B. Authorization
+C. Identification
+D. Auditing
+✅ Correct Answer: Authorization
+📝 Authorization defines what a user is allowed to do.
+________________________________________
+Q7. Ensuring information is accessible when needed by authorized users refers to:
+A. Confidentiality
+B. Integrity
+C. Availability
+D. Authenticity
+✅ Correct Answer: Availability
+📝 Availability ensures systems and data are usable when required.
+________________________________________
+Q8. The minimum acceptable security configuration is known as:
+A. Benchmark
+B. Policy
+C. Baseline
+D. Standard
+✅ Correct Answer: Baseline
+📝 A baseline defines the lowest allowed security level.
+________________________________________
+Q9. Fingerprints, iris scans, and voice recognition are examples of:
+A. Tokens
+B. Credentials
+C. Biometrics
+D. Certificates
+✅ Correct Answer: Biometrics
+📝 Biometrics use physical or behavioral characteristics.
+________________________________________
+Q10. Malware that allows attackers to remotely control infected systems is called a:
+A. Virus
+B. Worm
+C. Bot
+D. Spyware
+✅ Correct Answer: Bot
+📝 Bots enable attackers to control systems remotely.
+________________________________________
+Q11. Information that requires protection from unauthorized disclosure is called:
+A. Public data
+B. Classified or sensitive information
+C. Open data
+D. Metadata
+✅ Correct Answer: Classified or sensitive information
+📝 Such data must be protected due to its value or impact.
+________________________________________
+Q12. Preventing unauthorized disclosure of information refers to:
+A. Integrity
+B. Availability
+C. Confidentiality
+D. Authenticity
+✅ Correct Answer: Confidentiality
+📝 Confidentiality ensures data is only accessed by authorized users.
+________________________________________
+Q13. The importance of information to business success is known as:
+A. Sensitivity
+B. Criticality
+C. Impact
+D. Risk
+✅ Correct Answer: Criticality
+📝 Criticality measures how essential information is to operations.
+________________________________________
+Q14. Ensuring data is not altered without authorization refers to:
+A. Confidentiality
+B. Availability
+C. Integrity
+D. Authenticity
+✅ Correct Answer: Integrity
+📝 Integrity protects data accuracy and completeness.
+________________________________________
+Q15. Converting plaintext into ciphertext is called:
+A. Hashing
+B. Encoding
+C. Encryption
+D. Obfuscation
+✅ Correct Answer: Encryption
+📝 Encryption protects data confidentiality.
+________________________________________
+Q16. Which regulation protects personal data of EU citizens?
+A. HIPAA
+B. PCI-DSS
+C. GDPR
+D. SOX
+✅ Correct Answer: GDPR
+📝 GDPR enforces strict privacy and data protection rules.
+________________________________________
+Q17. The framework for managing and making organizational decisions is known as:
+A. Compliance
+B. Governance
+C. Risk treatment
+D. Auditing
+✅ Correct Answer: Governance
+📝 Governance defines roles, policies, and decision-making processes.
+________________________________________
+Q18. The primary U.S. law protecting healthcare information is:
+A. GDPR
+B. SOX
+C. HIPAA
+D. GLBA
+✅ Correct Answer: HIPAA
+📝 HIPAA protects patient health information.
+________________________________________
+Q19. The amount of damage a threat could cause is called:
+A. Likelihood
+B. Probability
+C. Impact
+D. Risk
+✅ Correct Answer: Impact
+📝 Impact measures potential harm.
+________________________________________
+Q20. The potential harm resulting from a threat exploiting a vulnerability is known as:
+A. Threat
+B. Vulnerability
+C. Information security risk
+D. Control
+✅ Correct Answer: Information security risk
+📝 Risk combines likelihood and impact.
+________________________________________
+Q21. Ensuring data accuracy and consistency for its intended purpose refers to:
+A. Confidentiality
+B. Integrity
+C. Availability
+D. Authenticity
+✅ Correct Answer: Integrity
+📝 Integrity ensures trustworthy information.
+________________________________________
+Q22. Which organization develops international standards like ISO/IEC 27001?
+A. IETF
+B. IEEE
+C. ISO
+D. NIST
+✅ Correct Answer: ISO
+📝 ISO publishes global standards.
+________________________________________
+Q23. Which organization defines internet protocols such as TCP/IP?
+A. IEEE
+B. IETF
+C. ISO
+D. NIST
+✅ Correct Answer: IETF
+📝 IETF develops internet standards.
+________________________________________
+Q24. The chance that a vulnerability will be exploited is known as:
+A. Impact
+B. Likelihood
+C. Risk
+D. Threat
+✅ Correct Answer: Likelihood
+📝 Likelihood measures probability of occurrence.
+________________________________________
+Q25. A subjective estimate of threat exploitation probability is called:
+A. Impact rating
+B. Likelihood of occurrence
+C. Risk tolerance
+D. Probability
+✅ Correct Answer: Likelihood of occurrence
+📝 It reflects expert judgment rather than statistics.
+________________________________________
+Q26. Using two or more authentication factors is known as:
+A. SSO
+B. Multi-factor authentication
+C. Biometric authentication
+D. Token authentication
+✅ Correct Answer: Multi-factor authentication
+📝 MFA increases security by combining factors.
+________________________________________
+Q27. Which U.S. organization publishes SP 800 security standards?
+A. ISO
+B. IEEE
+C. NIST
+D. IETF
+✅ Correct Answer: NIST
+📝 NIST provides U.S. federal security guidance.
+________________________________________
+Q28. The inability to deny performing an action is known as:
+A. Integrity
+B. Authentication
+C. Non-repudiation
+D. Authorization
+✅ Correct Answer: Non-repudiation
+📝 Ensures actions cannot be denied later.
+________________________________________
+Q29. Information that can identify an individual is called:
+A. PHI
+B. PII
+C. PCI data
+D. Classified data
+✅ Correct Answer: PII
+📝 PII includes names, SSNs, and biometrics.
+________________________________________
+Q30. Security controls such as locks, fences, and guards are:
+A. Administrative
+B. Technical
+C. Physical controls
+D. Detective controls
+✅ Correct Answer: Physical controls
+📝 Physical controls protect facilities and assets.
+________________________________________
+Q31. An individual’s right to control personal information refers to:
+A. Confidentiality
+B. Privacy
+C. Integrity
+D. Security
+✅ Correct Answer: Privacy
+📝 Privacy focuses on personal data rights.
+________________________________________
+Q32. The chance that a threat will exploit a vulnerability is called:
+A. Risk
+B. Impact
+C. Probability
+D. Sensitivity
+✅ Correct Answer: Probability
+📝 Probability measures chance of occurrence.
+________________________________________
+Q33. Healthcare-related personal data is known as:
+A. PII
+B. PHI
+C. PCI
+D. Classified data
+✅ Correct Answer: PHI
+📝 PHI is protected under HIPAA.
+________________________________________
+Q34. Risk analysis using labels such as low, medium, and high is:
+A. Quantitative analysis
+B. Qualitative risk analysis
+C. Cost analysis
+D. Impact analysis
+✅ Correct Answer: Qualitative risk analysis
+📝 Uses descriptive values instead of numbers.
+________________________________________
+Q35. Risk analysis using numerical values is known as:
+A. Qualitative analysis
+B. Quantitative risk analysis
+C. Baseline analysis
+D. Threat analysis
+✅ Correct Answer: Quantitative risk analysis
+📝 Uses statistics and monetary values.
+________________________________________
+Q36. A possible event that could cause harm is called a:
+A. Vulnerability
+B. Risk
+C. Control
+D. Asset
+✅ Correct Answer: Risk
+📝 Risk represents potential negative events.
+________________________________________
+Q37. Accepting risk without additional controls is known as:
+A. Risk mitigation
+B. Risk transference
+C. Risk acceptance
+D. Risk avoidance
+✅ Correct Answer: Risk acceptance
+📝 The organization chooses to live with the risk.
+________________________________________
+Q38. Identifying and analyzing organizational risks is called:
+A. Risk treatment
+B. Risk assessment
+C. Risk avoidance
+D. Risk transfer
+✅ Correct Answer: Risk assessment
+📝 It evaluates threats and vulnerabilities.
+________________________________________
+Q39. Choosing not to perform a risky activity is known as:
+A. Risk acceptance
+B. Risk mitigation
+C. Risk avoidance
+D. Risk transfer
+✅ Correct Answer: Risk avoidance
+📝 The risk is eliminated by avoiding the activity.
+________________________________________
+Q40. The overall process of managing risks is called:
+A. Risk assessment
+B. Risk management
+C. Risk treatment
+D. Governance
+✅ Correct Answer: Risk management
+📝 It includes identification, assessment, and monitoring.
+________________________________________
+Q41. A structured approach for managing enterprise risk is:
+A. ISO standard
+B. Risk Management Framework
+C. Baseline
+D. Control set
+✅ Correct Answer: Risk Management Framework
+📝 RMF provides a systematic risk approach.
+________________________________________
+Q42. Implementing controls to reduce risk is known as:
+A. Risk acceptance
+B. Risk transfer
+C. Risk mitigation
+D. Risk avoidance
+✅ Correct Answer: Risk mitigation
+📝 Controls reduce likelihood or impact.
+________________________________________
+Q43. The amount of risk an organization is willing to accept is called:
+A. Risk impact
+B. Risk likelihood
+C. Risk tolerance
+D. Risk threshold
+✅ Correct Answer: Risk tolerance
+📝 Defines acceptable risk levels.
+________________________________________
+Q44. Shifting risk to a third party is known as:
+A. Risk acceptance
+B. Risk avoidance
+C. Risk transference
+D. Risk mitigation
+✅ Correct Answer: Risk transference
+📝 Insurance is a common example.
+________________________________________
+Q45. Selecting how to respond to risk is known as:
+A. Risk management
+B. Risk assessment
+C. Risk treatment
+D. Risk tolerance
+✅ Correct Answer: Risk treatment
+📝 Determines mitigation, acceptance, transfer, or avoidance.
+________________________________________
+Q46. Safeguards protecting confidentiality, integrity, and availability are called:
+A. Threats
+B. Vulnerabilities
+C. Security controls
+D. Assets
+✅ Correct Answer: Security controls
+📝 Controls protect systems and information.
+________________________________________
+Q47. The importance of data protection based on value is known as:
+A. Criticality
+B. Sensitivity
+C. Integrity
+D. Impact
+✅ Correct Answer: Sensitivity
+📝 Sensitive data requires stronger protection.
+________________________________________
+Q48. Authentication using only one factor is called:
+A. MFA
+B. Single-factor authentication
+C. Biometric authentication
+D. Adaptive authentication
+✅ Correct Answer: Single-factor authentication
+📝 Uses only one credential type.
+________________________________________
+Q49. The condition of an entity at a specific time is called:
+A. Status
+B. State
+C. Mode
+D. Phase
+✅ Correct Answer: State
+📝 State represents a snapshot in time.
+________________________________________
+Q50. A system operating correctly without unauthorized changes has:
+A. Data integrity
+B. Confidentiality
+C. System integrity
+D. Availability
+✅ Correct Answer: System integrity
+📝 System integrity ensures reliable operation.
+________________________________________
+Q51. Controls implemented via hardware or software are:
+A. Administrative
+B. Physical
+C. Technical controls
+D. Preventive controls
+✅ Correct Answer: Technical controls
+📝 Firewalls and encryption are technical controls.
+________________________________________
+Q52. Any potential cause of harm to a system is called a:
+A. Vulnerability
+B. Risk
+C. Threat
+D. Asset
+✅ Correct Answer: Threat
+📝 Threats exploit vulnerabilities.
+________________________________________
+Q53. An individual or group that carries out an attack is a:
+A. Threat
+B. Threat actor
+C. Vulnerability
+D. Asset owner
+✅ Correct Answer: Threat actor
+📝 Threat actors initiate attacks.
+________________________________________
+Q54. The method used to carry out an attack is known as:
+A. Threat source
+B. Threat vector
+C. Vulnerability
+D. Exploit
+✅ Correct Answer: Threat vector
+📝 Vectors describe attack paths.
+________________________________________
+Q55. A physical device used for authentication is called a:
+A. Certificate
+B. Biometric
+C. Token
+D. Password
+✅ Correct Answer: Token
+📝 Tokens are something you have.
+________________________________________
+Q56. A weakness that can be exploited is called a:
+A. Threat
+B. Vulnerability
+C. Risk
+D. Control
+✅ Correct Answer: Vulnerability
+📝 Vulnerabilities enable attacks.
+________________________________________
+Q57. Which organization develops networking and engineering standards?
+A. ISO
+B. IETF
+C. IEEE
+D. NIST
+✅ Correct Answer: IEEE
+📝 IEEE defines standards like 802.3 and 802.11.
+________________________________________
+
+
+
+
+
+
+Cloud Computing & Cybersecurity MCQs 
+
+Q1. What is the primary purpose of a Cloud Security Group (CSG)?
+A. Physical security of data centers
+B. Access control for cloud resources
+C. Resource optimization
+D. Regulatory enforcement
+✅ Correct Answer: B
+📝 Controls inbound and outbound traffic to cloud resources.
+________________________________________
+Q2. Why is symmetric encryption preferred for large data volumes?
+A. Stronger security
+B. Faster performance
+C. Easier key exchange
+D. Public key usage
+✅ Correct Answer: B
+📝 Symmetric algorithms are faster and computationally efficient.
+________________________________________
+Q3. What is the main purpose of digital signatures?
+A. Encrypt data
+B. Verify integrity and authenticity
+C. Generate keys
+D. Control access
+✅ Correct Answer: B
+📝 Digital signatures ensure data has not been altered and verify sender identity.
+________________________________________
+Q4. Which protocol secures HTTP traffic?
+A. IPsec
+B. SSH
+C. SSL/TLS
+D. VPN
+✅ Correct Answer: C
+📝 HTTPS uses TLS to encrypt web communication.
+________________________________________
+Q5. Which is a key characteristic of IaaS?
+A. Limited scalability
+B. Pay-as-you-go pricing
+C. Fixed software stack
+D. No user control
+✅ Correct Answer: B
+📝 IaaS offers flexible resources billed based on usage.
+________________________________________
+Q6. Why is disaster recovery important in cloud environments?
+A. Prevent attacks
+B. Ensure service availability
+C. Reduce cost
+D. Automate deployment
+✅ Correct Answer: B
+📝 DR ensures systems remain available during outages or disasters.
+________________________________________
+Q7. Which device connects a LAN to a WAN?
+A. Firewall
+B. Router
+C. Switch
+D. Hub
+✅ Correct Answer: B
+📝 Routers forward traffic between different networks.
+________________________________________
+Q8. Which cloud model allows developers to deploy apps without managing servers?
+A. IaaS
+B. PaaS
+C. SaaS
+D. FaaS
+✅ Correct Answer: B
+📝 PaaS abstracts infrastructure and runtime management.
+________________________________________
+Q9. Intercepting traffic between two communicating parties is called?
+A. Spoofing
+B. Phishing
+C. On-path attack
+D. Side-channel attack
+✅ Correct Answer: C
+📝 On-path (MITM) attacks allow attackers to eavesdrop or modify traffic.
+________________________________________
+Q10. Which control authenticates devices before network access?
+A. VPN
+B. IDS
+C. NAC
+D. Packet filtering
+✅ Correct Answer: C
+📝 NAC enforces authentication and authorization at network entry.
+________________________________________
+Q11. Which port does FTP use?
+A. 21
+B. 22
+C. 23
+D. 80
+✅ Correct Answer: A
+📝 FTP control channel operates on port 21.
+________________________________________
+Q12. Which authentication method is most secure for external cloud access?
+A. Username & password
+B. Biometrics
+C. OAuth
+D. LDAP
+✅ Correct Answer: C
+📝 OAuth uses tokens and avoids exposing credentials.
+________________________________________
+Q13. Which port is used by SSH?
+A. 22
+B. 23
+C. 80
+D. 443
+✅ Correct Answer: A
+📝 SSH provides encrypted remote access over port 22.
+________________________________________
+Q14. Why encrypt data in transit?
+A. Reduce costs
+B. Protect data during transmission
+C. Improve performance
+D. Automate updates
+✅ Correct Answer: B
+📝 Prevents data interception and eavesdropping.
+________________________________________
+Q15. Fake emails asking for credentials are examples of?
+A. Spoofing
+B. Phishing
+C. Malware
+D. DDoS
+✅ Correct Answer: B
+📝 Phishing tricks users into revealing sensitive information.
+________________________________________
+Q16. Which protocol securely transfers files over SSH?
+A. FTP
+B. SFTP
+C. TFTP
+D. FTPS
+✅ Correct Answer: B
+📝 SFTP encrypts file transfers using SSH.
+________________________________________
+Q17. Why should BCP plans be tested regularly?
+A. Reduce cost
+B. Validate effectiveness
+C. Increase revenue
+D. Avoid disasters
+✅ Correct Answer: B
+📝 Testing identifies gaps and improves preparedness.
+________________________________________
+Q18. What is a key benefit of CASB?
+A. DDoS prevention
+B. Cloud traffic visibility
+C. Disk encryption
+D. Cost optimization
+✅ Correct Answer: B
+📝 CASBs monitor and control cloud data usage.
+________________________________________
+Q19. What is the goal of a Business Continuity Plan?
+A. Stop disasters
+B. Continue operations
+C. Reduce spending
+D. Increase profits
+✅ Correct Answer: B
+📝 BCP ensures business functions continue during disruptions.
+________________________________________
+Q20. Flooding a server with traffic is known as?
+A. Spoofing
+B. Virus
+C. DDoS
+D. Phishing
+✅ Correct Answer: C
+📝 DDoS overwhelms systems to make them unavailable.
+________________________________________
+Q21. Which cloud model is dedicated to one organization?
+A. Public
+B. Private
+C. Hybrid
+D. Community
+✅ Correct Answer: B
+📝 Private clouds provide exclusive infrastructure.
+________________________________________
+Q22. What is the main goal of CASB solutions?
+A. IAM
+B. Cloud traffic control
+C. Encryption
+D. Auto-scaling
+✅ Correct Answer: B
+📝 CASBs enforce security policies across cloud services.
+________________________________________
+Q23. Which protocol secures Wi-Fi networks?
+A. WPA2
+B. TLS
+C. AES
+D. SSL
+✅ Correct Answer: A
+📝 WPA2 encrypts wireless communications.
+________________________________________
+Q24. How does IPsec prevent replay attacks?
+A. Encryption
+B. Hashing
+C. Sequence numbers
+D. Firewalls
+✅ Correct Answer: C
+📝 Sequence numbers detect duplicated packets.
+________________________________________
+Q25. Which cloud model combines public and private resources?
+A. Public
+B. Private
+C. Hybrid
+D. Community
+✅ Correct Answer: C
+📝 Hybrid clouds offer flexibility and scalability.
+________________________________________
+Q26. Which port is used by Telnet?
+A. 21
+B. 22
+C. 23
+D. 80
+✅ Correct Answer: C
+📝 Telnet communicates in plaintext over port 23.
+________________________________________
+Q27. What is RBAC used for?
+A. Prevent DDoS
+B. Role-based permissions
+C. Monitoring
+D. Encryption
+✅ Correct Answer: B
+📝 RBAC restricts access based on job roles.
+________________________________________
+Q28. Why is network segmentation important?
+A. Speed
+B. Cost savings
+C. Isolation of workloads
+D. Automation
+✅ Correct Answer: C
+📝 Segmentation limits lateral movement of attackers.
+________________________________________
+Q29. Which is a registered port example?
+A. HTTP
+B. Microsoft SQL Server
+C. FTP
+D. DNS
+✅ Correct Answer: B
+📝 Registered ports range from 1024–49151.
+________________________________________
+Q30. Why use a VPN?
+A. Improve speed
+B. Secure remote access
+C. Block malware
+D. Manage users
+✅ Correct Answer: B
+📝 VPN encrypts traffic over public networks.
+________________________________________
+Q31. Which service delivers ready-to-use software?
+A. IaaS
+B. PaaS
+C. SaaS
+D. FaaS
+✅ Correct Answer: C
+📝 SaaS provides complete applications over the internet.
+________________________________________
+Q32. VPN tunnel instability usually relates to which OSI layer?
+A. Application
+B. Transport
+C. Network
+D. Physical
+✅ Correct Answer: C
+📝 VPNs primarily operate at the network layer.
+________________________________________
+Q33. Which hash algorithm is vulnerable to collisions?
+A. AES
+B. RSA
+C. MD5
+D. SHA-256
+✅ Correct Answer: C
+📝 MD5 is cryptographically broken.
+________________________________________
+Q34. What is the purpose of DDoS mitigation services?
+A. Authentication
+B. Traffic analysis
+C. Block malicious traffic
+D. Load balancing
+✅ Correct Answer: C
+📝 Protects services from traffic floods.
+________________________________________
+Q35. Which device is considered an endpoint?
+A. Firewall
+B. Router
+C. Laptop
+D. Switch
+✅ Correct Answer: C
+📝 Endpoints are user-operated devices.
+________________________________________
+Q36. Which protocol secures data in transit?
+A. AES
+B. RSA
+C. TLS
+D. MD5
+✅ Correct Answer: C
+📝 TLS encrypts communication between systems.
+________________________________________
+Q37. What is an IPv4 address size?
+A. 128-bit
+B. 64-bit
+C. 32-bit
+D. 16-bit
+✅ Correct Answer: C
+📝 IPv4 uses 32-bit addressing.
+________________________________________
+Q38. MITM attacks target which activity?
+A. Password storage
+B. Data interception
+C. Malware injection
+D. Disk access
+✅ Correct Answer: B
+📝 MITM intercepts communication between parties.
+________________________________________
+Q39. Which malware demands payment to decrypt files?
+A. Virus
+B. Worm
+C. Trojan
+D. Ransomware
+✅ Correct Answer: D
+📝 Ransomware encrypts files for extortion.
+________________________________________
+Q40. Which control secures data in transit?
+A. RBAC
+B. IDS
+C. TLS
+D. Encryption at rest
+✅ Correct Answer: C
+📝 TLS protects data during transmission.
+________________________________________
+Q41. Which BCP component identifies critical functions?
+A. Risk assessment
+B. BIA
+C. Plan testing
+D. Recovery plan
+✅ Correct Answer: B
+📝 BIA analyzes business impact of disruptions.
+________________________________________
+Q42. Main goal of disaster recovery in cloud?
+A. Prevent attacks
+B. Maintain availability
+C. Reduce costs
+D. Improve automation
+✅ Correct Answer: B
+📝 DR restores services after failures.
+________________________________________
+Q43. Why use digital certificates in PKI?
+A. Encrypt files
+B. Authenticate identities
+C. Store passwords
+D. Generate keys
+✅ Correct Answer: B
+📝 Certificates verify entity identities.
+________________________________________
+Q44. Intercepting traffic at ARP level affects which OSI layer?
+A. Physical
+B. Data Link
+C. Network
+D. Application
+✅ Correct Answer: B
+📝 ARP operates at Layer 2.
+________________________________________
+Q45. How do organizations verify cloud providers’ security?
+A. IDS
+B. Encryption
+C. Security certifications
+D. Firewalls
+✅ Correct Answer: C
+📝 Certifications show compliance with standards.
+________________________________________
+
+
+Q46. Which protocol is primarily used to securely access and manage remote servers over an encrypted connection?
+A. Telnet
+B. FTP
+C. SSH
+D. HTTP
+✅ Correct Answer: SSH
+📝 SSH provides encrypted remote login and command execution.
+________________________________________
+Q47. Which security control helps ensure data confidentiality and integrity during transmission over public networks?
+A. RBAC
+B. IDS
+C. Transport Layer Security (TLS)
+D. DLP
+✅ Correct Answer: TLS
+📝 TLS encrypts data in transit and prevents eavesdropping and tampering.
+________________________________________
+Q48. Which attack attempts to overwhelm a switch by filling its MAC address table with fake addresses?
+A. ARP spoofing
+B. MAC flooding
+C. DNS poisoning
+D. VLAN hopping
+✅ Correct Answer: MAC flooding
+📝 This forces the switch to behave like a hub, enabling sniffing attacks.
+________________________________________
+Q49. Which cloud security principle ensures users have only the minimum access necessary to perform their job?
+A. Defense in depth
+B. Zero trust
+C. Principle of least privilege
+D. Separation of duties
+✅ Correct Answer: Principle of least privilege
+📝 Reduces attack surface by limiting unnecessary permissions.
+________________________________________
+Q50. Which AWS service is commonly used to protect applications from web-based attacks such as SQL injection and XSS?
+A. AWS Shield
+B. AWS Inspector
+C. AWS WAF
+D. AWS GuardDuty
+✅ Correct Answer: AWS WAF
+📝 AWS WAF filters malicious HTTP/S traffic at the application layer.
+________________________________________
+
+Q51. Which encryption algorithm is commonly used to protect data in transit in cloud environments?
+A. AES
+B. DES
+C. RSA
+D. MD5
+✅ Correct Answer: A
+📝 AES is widely used within TLS to encrypt data during transmission.
+________________________________________
+Q52. Which is a characteristic of a public cloud deployment model?
+A. Dedicated infrastructure
+B. Limited scalability
+C. Shared infrastructure
+D. Full hardware control
+✅ Correct Answer: C
+📝 Public clouds share infrastructure among multiple customers.
+________________________________________
+Q53. At which TCP/IP layer do stateful firewalls mainly operate?
+A. Layer 1
+B. Layer 2
+C. Layer 3
+D. Layer 4
+✅ Correct Answer: D
+📝 Firewalls commonly inspect ports and sessions at the transport layer.
+________________________________________
+Q54. Why is salt used when hashing passwords?
+A. Improve usability
+B. Increase entropy
+C. Reduce security
+D. Speed hashing
+✅ Correct Answer: B
+📝 Salting prevents rainbow table and precomputed hash attacks.
+________________________________________
+Q55. Which control prevents unauthorized access to cloud databases?
+A. RBAC
+B. NIDS
+C. DDoS mitigation
+D. SIEM
+✅ Correct Answer: A
+📝 RBAC ensures users access only permitted data.
+________________________________________
+Q56. Which protocol uses port 53?
+A. DNS
+B. SMTP
+C. HTTP
+D. HTTPS
+✅ Correct Answer: A
+📝 DNS resolves domain names to IP addresses.
+________________________________________
+Q57. Which OSI layer is targeted by a ping flood attack?
+A. Layer 3
+B. Layer 4
+C. Layer 5
+D. Layer 6
+✅ Correct Answer: A
+📝 Ping floods abuse ICMP, which operates at the network layer.
+________________________________________
+Q58. What is the impact of an IPsec replay attack?
+A. Unauthorized access
+B. Communication disruption
+C. Traffic manipulation
+D. All of the above
+✅ Correct Answer: D
+📝 Replay attacks can disrupt sessions and bypass protections.
+________________________________________
+Q59. Which control protects data in transit?
+A. Encryption at rest
+B. NIDS
+C. TLS
+D. RBAC
+✅ Correct Answer: C
+📝 TLS encrypts data exchanged between clients and servers.
+________________________________________
+Q60. Why implement MFA in cloud environments?
+A. Prevent unauthorized access
+B. Improve performance
+C. Automate deployment
+D. Monitor users
+✅ Correct Answer: A
+📝 MFA adds extra verification beyond passwords.
+________________________________________
+Q61. Which cloud model is exclusive to one organization?
+A. Hybrid
+B. Public
+C. Private
+D. Community
+✅ Correct Answer: C
+📝 Private clouds offer dedicated resources.
+________________________________________
+Q62. What is the purpose of network segmentation?
+A. Block all access
+B. Increase speed
+C. Improve security and performance
+D. Monitor compliance
+✅ Correct Answer: C
+📝 Segmentation limits attack spread and improves control.
+________________________________________
+Q63. Which algorithm is commonly used for encrypting data at rest?
+A. AES
+B. RSA
+C. DES
+D. MD5
+✅ Correct Answer: A
+📝 AES is industry-standard for storage encryption.
+________________________________________
+Q64. Malware disguised as legitimate software is called?
+A. Worm
+B. Virus
+C. Trojan
+D. Ransomware
+✅ Correct Answer: C
+📝 Trojans rely on user deception to install malware.
+________________________________________
+Q65. Network issues caused by faulty cabling affect which OSI layer?
+A. Application
+B. Transport
+C. Network
+D. Physical
+✅ Correct Answer: D
+📝 Cables and connectors belong to the physical layer.
+________________________________________
+Q66. What is the goal of Data Loss Prevention (DLP)?
+A. Block logins
+B. Control data movement
+C. Optimize resources
+D. Automate deployments
+✅ Correct Answer: B
+📝 DLP prevents sensitive data leakage.
+________________________________________
+Q67. A DDoS flood mainly targets which OSI layer?
+A. Physical
+B. Data Link
+C. Network
+D. Transport
+✅ Correct Answer: C
+📝 DDoS attacks overwhelm network-layer resources.
+________________________________________
+Q68. Which port is used by SMTP?
+A. 25
+B. 80
+C. 443
+D. 22
+✅ Correct Answer: A
+📝 SMTP handles email delivery.
+________________________________________
+Q69. Registered ports are typically used for?
+A. Vendor applications
+B. Core protocols
+C. Web servers
+D. In-house apps
+✅ Correct Answer: A
+📝 Registered ports (1024–49151) serve vendor services.
+________________________________________
+Q70. Which model allows app deployment without managing infrastructure?
+A. IaaS
+B. PaaS
+C. SaaS
+D. FaaS
+✅ Correct Answer: B
+📝 PaaS abstracts infrastructure management.
+________________________________________
+Q71. Port scanning targets which OSI layer?
+A. Layer 1
+B. Layer 2
+C. Layer 3
+D. Layer 4
+✅ Correct Answer: D
+📝 Port scanning probes transport-layer services.
+________________________________________
+Q72. Unable to access a specific website indicates which OSI layer?
+A. Application
+B. Transport
+C. Network
+D. Data Link
+✅ Correct Answer: A
+📝 Web access issues often relate to application-layer services.
+________________________________________
+Q73. What is the primary purpose of CASB?
+A. Manage vendors
+B. Optimize usage
+C. Monitor cloud traffic
+D. Encrypt databases
+✅ Correct Answer: C
+📝 CASBs enforce security between users and cloud apps.
+________________________________________
+Q74. Which cloud model provides exclusive resources?
+A. Public
+B. Private
+C. Hybrid
+D. Community
+✅ Correct Answer: B
+📝 Private cloud infrastructure is not shared.
+________________________________________
+Q75. What does a CSPM tool do?
+A. Enforce cloud security compliance
+B. Reduce costs
+C. Encrypt data
+D. Deploy software
+✅ Correct Answer: A
+📝 CSPM detects misconfigurations and compliance gaps.
+________________________________________
+Q76. Which control protects data at rest?
+A. RBAC
+B. Encryption
+C. IDS
+D. MFA
+✅ Correct Answer: B
+📝 Encryption secures stored data.
+________________________________________
+Q77. Key advantage of CASB solutions?
+A. DDoS protection
+B. Cloud visibility
+C. Storage encryption
+D. Cost optimization
+✅ Correct Answer: B
+📝 CASBs provide visibility and policy enforcement.
+________________________________________
+Q78. Primary goal of a Disaster Recovery Plan?
+A. Prevent disasters
+B. Ensure service continuity
+C. Reduce costs
+D. Increase profit
+✅ Correct Answer: B
+📝 DR focuses on recovery after failures.
+________________________________________
+Q79. Which cloud model uses dedicated infrastructure?
+A. Public
+B. Private
+C. Hybrid
+D. Community
+✅ Correct Answer: B
+📝 Private clouds isolate infrastructure per organization.
+________________________________________
+Q80. Which protocol uses port 80?
+A. HTTP
+B. FTP
+C. SSH
+D. Telnet
+✅ Correct Answer: A
+📝 HTTP handles unencrypted web traffic.
+________________________________________
+Q81. Purpose of a Virtual Private Cloud (VPC)?
+A. Dedicated physical servers
+B. Network isolation
+C. VM optimization
+D. Access enforcement
+✅ Correct Answer: B
+📝 VPC logically isolates cloud networks.
+________________________________________
+Q82. Purpose of DDoS mitigation services?
+A. Access control
+B. Traffic analysis
+C. Block malicious traffic
+D. Resource optimization
+✅ Correct Answer: C
+📝 Protects availability of services.
+________________________________________
+Q83. Which control detects security incidents?
+A. MFA
+B. IDS
+C. RBAC
+D. Encryption
+✅ Correct Answer: B
+📝 IDS monitors for suspicious activity.
+________________________________________
+Q84. Goal of cloud disaster recovery planning?
+A. Prevent access
+B. Ensure availability
+C. Reduce costs
+D. Automate deployment
+✅ Correct Answer: B
+📝 DR ensures uptime during disasters.
+________________________________________
+Q85. Unable to access a website indicates which layer?
+A. Application
+B. Transport
+C. Network
+D. Data Link
+✅ Correct Answer: A
+📝 Web services operate at Layer 7.
+________________________________________
+Q86. MITM attacks commonly target which OSI layer?
+A. Layer 2
+B. Layer 3
+C. Layer 4
+D. Layer 7
+✅ Correct Answer: B
+📝 MITM often manipulates IP routing or ARP.
+________________________________________
+Q87. Main advantage of CASB?
+A. DDoS prevention
+B. Traffic monitoring
+C. Database encryption
+D. Cost reduction
+✅ Correct Answer: B
+📝 CASBs provide centralized cloud security control.
+________________________________________
+Q88. Which model provides virtualized computing resources?
+A. IaaS
+B. SaaS
+C. PaaS
+D. FaaS
+✅ Correct Answer: A
+📝 IaaS delivers VMs, storage, and networking.
+________________________________________
+Q89. Purpose of RBAC in cloud environments?
+A. Stop DDoS
+B. Enforce compliance
+C. Monitor behavior
+D. Restrict access by role
+✅ Correct Answer: D
+📝 RBAC enforces least privilege.
+________________________________________
+Q90. Why use encryption at rest?
+A. Prevent login attacks
+B. Protect data in transit
+C. Improve performance
+D. Protect stored data
+✅ Correct Answer: D
+📝 Prevents unauthorized access to stored data.
+________________________________________
+Q91. Which BCP phase identifies risks?
+A. Risk assessment
+B. BIA
+C. Testing
+D. Implementation
+✅ Correct Answer: A
+📝 Identifies threats impacting operations.
+________________________________________
+Q92. Secure authentication for external cloud access?
+A. Username/password
+B. Biometrics
+C. OAuth
+D. LDAP
+✅ Correct Answer: C
+📝 OAuth provides token-based authentication.
+________________________________________
+Q93. Why use network segmentation?
+A. Increase bandwidth
+B. Increase latency
+C. Isolate workloads
+D. Automate networks
+✅ Correct Answer: C
+📝 Limits attack surface and lateral movement.
+________________________________________
+Q94. Which model abstracts infrastructure for developers?
+A. IaaS
+B. PaaS
+C. SaaS
+D. FaaS
+✅ Correct Answer: B
+📝 PaaS simplifies application deployment.
+________________________________________
+Q95. Purpose of cloud security groups?
+A. Physical security
+B. Access control
+C. Resource allocation
+D. Compliance enforcement
+✅ Correct Answer: B
+📝 Security groups act as virtual firewalls.
+________________________________________
+Q96. Malware that encrypts files for ransom?
+A. Ransomware
+B. Worm
+C. Trojan
+D. Virus
+✅ Correct Answer: A
+📝 Ransomware extorts victims for decryption.
+________________________________________
+Q97. Main benefit of CASB?
+A. DDoS defense
+B. Cloud traffic control
+C. Encryption
+D. Cost optimization
+✅ Correct Answer: B
+📝 CASBs protect data usage in cloud apps.
+________________________________________
+Q98. Why use a nonce in cryptography?
+A. Add randomness
+B. Strengthen keys
+C. Prevent replay attacks
+D. Authenticate users
+✅ Correct Answer: C
+📝 Nonces ensure messages are unique.
+________________________________________
+Q99. DNS spoofing mainly affects which OSI layer?
+A. Physical
+B. Data Link
+C. Network
+D. Application
+✅ Correct Answer: D
+📝 DNS manipulation impacts application-level services.
+________________________________________
+Q100. Intercepting communication between two parties is called?
+A. On-path attack
+B. Spoofing
+C. Phishing
+D. Side-channel
+✅ Correct Answer: A
+📝 On-path attacks enable traffic interception.
+________________________________________
+
+Q101. Which security control monitors, collects, and analyzes logs to identify suspicious user activity in cloud environments?
+A. IDS
+B. MFA
+C. RBAC
+D. SIEM
+✅ Answer: D
+📝 SIEM aggregates logs and events to detect threats and anomalies.
+________________________________________
+Q102. What is the primary purpose of Role-Based Access Control (RBAC) in cloud environments?
+A. Prevent DDoS attacks
+B. Enforce compliance
+C. Monitor activity
+D. Restrict access based on user roles
+✅ Answer: D
+📝 RBAC enforces least privilege by assigning permissions based on roles.
+________________________________________
+Q103. What is the range of dynamic (private) TCP/UDP ports?
+A. 0–1023
+B. 1024–49151
+C. 49152–65535
+D. None of the above
+✅ Answer: C
+📝 Dynamic ports are used for temporary client-side connections.
+________________________________________
+Q104. Which control best prevents buffer overflow attacks?
+A. IDS
+B. Firewalls
+C. Antivirus
+D. Input validation
+✅ Answer: D
+📝 Input validation prevents malicious data from exceeding memory limits.
+________________________________________
+Q105. A MAC flooding attack targets which OSI layer?
+A. Layer 2
+B. Layer 3
+C. Layer 4
+D. Layer 7
+✅ Answer: A
+📝 MAC flooding overwhelms switch CAM tables at Layer 2.
+________________________________________
+Q106. Why is Multi-Factor Authentication (MFA) implemented in cloud environments?
+A. Optimize performance
+B. Prevent unauthorized access
+C. Automate deployment
+D. Monitor users
+✅ Answer: B
+📝 MFA adds additional verification beyond passwords.
+________________________________________
+Q107. What is the main purpose of an Incident Response Plan (IRP)?
+A. Improve productivity
+B. Prevent all incidents
+C. Allocate maintenance resources
+D. Provide procedures for handling security incidents
+✅ Answer: D
+📝 IRP defines structured steps for detection, response, and recovery.
+________________________________________
+Q108. What is the primary function of a Cloud Security Group (CSG)?
+A. Physical security
+B. Network access control
+C. Resource optimization
+D. Compliance enforcement
+✅ Answer: B
+📝 Security groups act as virtual firewalls.
+________________________________________
+Q109. What is the primary goal of RBAC?
+A. DDoS protection
+B. Compliance enforcement
+C. Activity monitoring
+D. Role-based access restriction
+✅ Answer: D
+📝 RBAC limits access according to job responsibilities.
+________________________________________
+Q110. Which attack floods systems with traffic to cause service disruption?
+A. DoS / DDoS
+B. Spoofing
+C. Phishing
+D. Virus
+✅ Answer: A
+📝 DDoS attacks exhaust system resources.
+________________________________________
+Q111. Why are DDoS mitigation services used in cloud environments?
+A. Prevent unauthorized access
+B. Monitor traffic
+C. Block malicious traffic
+D. Optimize performance
+✅ Answer: C
+📝 These services absorb and filter attack traffic.
+________________________________________
+Q112. Malware disguised as legitimate software that tricks users is called?
+A. Worm
+B. Virus
+C. Trojan
+D. Ransomware
+✅ Answer: C
+📝 Trojans rely on social engineering rather than self-propagation.
+________________________________________
+Q113. Which cloud model combines public and private infrastructure?
+A. Public
+B. Private
+C. Hybrid
+D. Community
+✅ Answer: C
+📝 Hybrid clouds balance scalability and control.
+________________________________________
+Q114. A key characteristic of public cloud deployment is:
+A. Dedicated infrastructure
+B. Limited scalability
+C. Shared infrastructure
+D. Full hardware control
+✅ Answer: C
+📝 Resources are shared across multiple tenants.
+________________________________________
+Q115. Which control best protects against stolen credentials?
+A. IDS
+B. MFA
+C. Encryption at rest
+D. Segmentation
+✅ Answer: B
+📝 MFA blocks access even if passwords are compromised.
+________________________________________
+Q116. A DDoS attack primarily targets which OSI layer?
+A. Physical
+B. Data Link
+C. Network
+D. Transport
+✅ Answer: C
+📝 Network-layer floods overwhelm routing capacity.
+________________________________________
+Q117. What is the main objective of a CASB?
+A. Vendor management
+B. Cost optimization
+C. Control cloud data traffic
+D. Database encryption
+✅ Answer: C
+📝 CASBs enforce security policies between users and cloud apps.
+________________________________________
+Q118. A SYN flood attack targets which OSI layer?
+A. Layer 4
+B. Layer 5
+C. Layer 6
+D. Layer 7
+✅ Answer: A
+📝 SYN floods exploit TCP handshake mechanisms.
+________________________________________
+Q119. Best protection against compromised credentials is:
+A. IDS
+B. MFA
+C. Encryption at rest
+D. Segmentation
+✅ Answer: B
+📝 MFA prevents unauthorized login even with valid passwords.
+________________________________________
+Q120. Which encryption algorithm is commonly used for data in transit?
+A. AES
+B. RSA
+C. DES
+D. MD5
+✅ Answer: A
+📝 AES is used within TLS sessions.
+________________________________________
+Q121. VPN disconnect issues are most often related to which OSI layer?
+A. Application
+B. Transport
+C. Network
+D. Physical
+✅ Answer: B
+📝 VPN tunnels depend on TCP/UDP stability.
+________________________________________
+Q122. Which cloud model delivers complete software applications?
+A. PaaS
+B. IaaS
+C. SaaS
+D. FaaS
+✅ Answer: C
+📝 SaaS requires minimal customer management.
+________________________________________
+Q123. Which authentication method enables secure third-party cloud access?
+A. Username/password
+B. Biometrics
+C. OAuth
+D. LDAP
+✅ Answer: C
+📝 OAuth uses tokens instead of sharing credentials.
+________________________________________
+Q124. Network cabling issues affect which OSI layer?
+A. Application
+B. Transport
+C. Network
+D. Physical
+✅ Answer: D
+📝 Physical layer handles cables and signals.
+________________________________________
+Q125. What is an IPv4 address?
+A. 128-bit address
+B. 32-bit logical address
+C. Private-only address
+D. Documentation address
+✅ Answer: B
+📝 IPv4 uses 32-bit addressing.
+________________________________________
+Q126. Which control detects suspicious activity in real time?
+A. IDS
+B. MFA
+C. RBAC
+D. Encryption
+✅ Answer: A
+📝 IDS monitors traffic for attack patterns.
+________________________________________
+Q127. Which control prevents unauthorized database access?
+A. RBAC
+B. NIDS
+C. DDoS mitigation
+D. SIEM
+✅ Answer: A
+📝 RBAC limits database permissions.
+________________________________________
+Q128. CASB solutions primarily:
+A. Manage vendors
+B. Optimize costs
+C. Control cloud data flow
+D. Encrypt databases
+✅ Answer: C
+📝 CASBs provide visibility and policy enforcement.
+________________________________________
+Q129. Which cloud model uses dedicated infrastructure?
+A. Public
+B. Private
+C. Hybrid
+D. Community
+✅ Answer: B
+📝 Private clouds are exclusive to one organization.
+________________________________________
+Q130. What is the well-known port range?
+A. 0–1023
+B. 1024–49151
+C. 49152–65535
+D. None
+✅ Answer: A
+📝 Reserved for standard services like HTTP, FTP.
+________________________________________
+Q131. What is the primary function of a firewall?
+A. Performance tuning
+B. Traffic filtering
+C. Encryption
+D. Physical security
+✅ Answer: B
+📝 Firewalls enforce security rules on traffic.
+________________________________________
+Q132. A private cloud characteristic is:
+A. Shared infrastructure
+B. Limited scalability
+C. Dedicated infrastructure
+D. No customization
+✅ Answer: C
+📝 Private clouds offer greater control.
+________________________________________
+Q133. Best encryption for data at rest is:
+A. AES
+B. RSA
+C. DES
+D. MD5
+✅ Answer: A
+📝 AES is fast and secure for storage encryption.
+________________________________________
+Q134. An IP address is:
+A. Physical address
+B. Interface identifier
+C. Vendor identifier
+D. Logical network address
+✅ Answer: D
+📝 IP addresses identify devices logically.
+________________________________________
+Q135. What differentiates a switch from a hub?
+A. Hub is smarter
+B. Switch is outdated
+C. VLAN creation
+D. Switch forwards traffic intelligently
+✅ Answer: D
+📝 Switches use MAC tables to forward traffic.
+________________________________________
+Q136. Which device controls traffic within a LAN?
+A. Switch
+B. Firewall
+C. Hub
+D. Router
+✅ Answer: A
+📝 Switches manage internal network traffic.
+________________________________________
+Q137. Which protocols secure email communication?
+A. SMTPS
+B. IMAPS
+C. POP3S
+D. All of the above
+✅ Answer: D
+📝 These protocols encrypt email data.
+________________________________________
+Q138. Which IRP phase limits damage during an incident?
+A. Preparation
+B. Detection
+C. Response and mitigation
+D. Recovery
+✅ Answer: C
+📝 Focuses on containment and damage control.
+________________________________________
+Q139. Buffer overflow attacks target which OSI layer?
+A. Layer 5
+B. Layer 6
+C. Layer 7
+D. Layer 8
+✅ Answer: C
+📝 Application logic is exploited.
+________________________________________
+Q140. The cloud shared responsibility model defines:
+A. Encryption ownership
+B. Provider vs customer security roles
+C. Hardware ownership
+D. Compliance rules
+✅ Answer: B
+📝 Security duties are divided.
+________________________________________
+Q141. Why is network segmentation used?
+A. Increase bandwidth
+B. Increase latency
+C. Isolate workloads
+D. Automate provisioning
+✅ Answer: C
+📝 Limits lateral movement of attackers.
+________________________________________
+Q142. Subnetting improves performance by:
+A. Reducing congestion
+B. Increasing bandwidth
+C. Improving security only
+D. Simplifying management
+✅ Answer: A
+📝 Smaller broadcast domains reduce traffic.
+________________________________________
+Q143. Which model delivers complete applications?
+A. IaaS
+B. PaaS
+C. SaaS
+D. FaaS
+✅ Answer: C
+________________________________________
+Q144. HTTPS uses which port?
+A. 80
+B. 443
+C. 446
+D. 22
+✅ Answer: B
+________________________________________
+Q145. Which security control is used to prevent unauthorized access to sensitive data in cloud databases?
+A. Network Intrusion Detection System (NIDS)
+B. Distributed Denial of Service (DDoS) mitigation
+C. Security Information and Event Management (SIEM)
+D. Role-Based Access Control (RBAC)
+✅ Correct Answer: Role-Based Access Control (RBAC)
+📝 RBAC ensures users can access only the data permitted by their assigned roles.
+________________________________________
+Q146. What security measure helps prevent unauthorized access through stolen or compromised credentials?
+A. Network segmentation
+B. Data encryption at rest
+C. Intrusion Detection System (IDS)
+D. Multi-Factor Authentication (MFA)
+✅ Correct Answer: Multi-Factor Authentication (MFA)
+📝 MFA adds an extra verification layer beyond username and password.
+________________________________________
+Q147. What is the primary purpose of implementing network encryption in a cloud environment?
+A. To automate deployments
+B. To optimize resource usage
+C. To protect data during transmission
+D. To restrict user permissions
+✅ Correct Answer: To protect data during transmission
+📝 Encryption prevents eavesdropping and data tampering in transit.
+________________________________________
+Q148. What is the primary purpose of Role-Based Access Control (RBAC)?
+A. To monitor user activity
+B. To enforce compliance
+C. To block network attacks
+D. To restrict access based on user roles
+✅ Correct Answer: To restrict access based on user roles
+📝 RBAC limits permissions to job responsibilities, reducing security risks.
+________________________________________
+Q149. A hacker performs a man-in-the-middle attack and injects malicious packets between two systems. Which OSI layer is primarily targeted?
+A. Physical
+B. Transport
+C. Data Link
+D. Application
+✅ Correct Answer: Transport
+📝 MITM attacks often exploit session handling at the transport layer.
+________________________________________
+Q150. Which security control is used to protect data at rest in cloud storage?
+A. TLS
+B. IDS
+C. MFA
+D. Data Encryption
+✅ Correct Answer: Data Encryption
+📝 Encryption ensures stored data remains unreadable without proper keys.
+________________________________________
+Q151. What is an IPSec replay attack?
+A. Packet modification attack
+B. Network flooding attack
+C. Passive traffic sniffing
+D. Injection of captured packets into an active session
+✅ Correct Answer: Injection of captured packets into an active session
+📝 Replay attacks reuse valid packets to bypass security controls.
+________________________________________
+Q152. What is the primary goal of Intrusion Detection and Prevention Systems (IDPS)?
+A. Improve network performance
+B. Enforce compliance
+C. Detect and respond to malicious activities
+D. Prevent physical access
+✅ Correct Answer: Detect and respond to malicious activities
+📝 IDPS identifies attacks and can actively block them.
+________________________________________
+Q153. Network congestion caused by improper router configuration affects which OSI layer?
+A. Application
+B. Transport
+C. Network
+D. Data Link
+✅ Correct Answer: Network
+📝 Routing and packet forwarding are functions of the network layer.
+________________________________________
+Q154. Which cloud service model provides virtualized computing resources over the internet?
+A. SaaS
+B. PaaS
+C. FaaS
+D. Infrastructure as a Service (IaaS)
+✅ Correct Answer: Infrastructure as a Service (IaaS)
+📝 IaaS delivers virtual machines, storage, and networking resources.
+________________________________________
+Q155. What is the primary goal of Data Loss Prevention (DLP) in cloud environments?
+A. Prevent unauthorized logins
+B. Optimize performance
+C. Automate deployments
+D. Monitor and control data movement
+✅ Correct Answer: Monitor and control data movement
+📝 DLP prevents sensitive data from being leaked or misused.
+________________________________________
+Q156. What is the main advantage of a rainbow table attack over brute-force attacks?
+A. Requires less memory
+B. Slower but stealthier
+C. Faster password cracking using precomputed hashes
+D. Less likely to succeed
+✅ Correct Answer: Faster password cracking using precomputed hashes
+📝 Rainbow tables trade storage space for speed.
+________________________________________
+Q157. Improper router configuration causing congestion impacts which OSI layer?
+A. Application
+B. Transport
+C. Network
+D. Physical
+✅ Correct Answer: Network
+📝 Routers operate at Layer 3 and manage traffic flow.
+________________________________________
+Q158. A malicious email attachment installs malware after being opened. Which OSI layer is targeted?
+A. Physical
+B. Network
+C. Transport
+D. Application
+✅ Correct Answer: Application
+📝 Malware execution occurs at the application layer.
+________________________________________
+Q159. What is the purpose of encryption at rest in cloud storage?
+A. Improve performance
+B. Automate backups
+C. Prevent data transmission attacks
+D. Protect stored data from unauthorized access
+✅ Correct Answer: Protect stored data from unauthorized access
+📝 Encryption secures data even if storage media is compromised.
+________________________________________
+Q160. Which security control monitors and analyzes logs and user activity across cloud systems?
+A. IDS
+B. MFA
+C. RBAC
+D. SIEM
+✅ Correct Answer: SIEM
+📝 SIEM provides centralized log analysis and threat detection.
+________________________________________
+Q161. What is the primary goal of Data Loss Prevention (DLP)?
+A. Stop DDoS attacks
+B. Control access permissions
+C. Prevent sensitive data leakage
+D. Encrypt cloud storage
+✅ Correct Answer: Prevent sensitive data leakage
+📝 DLP enforces policies to protect confidential information.
+________________________________________
+Q162. Which security control helps prevent credential-based attacks?
+A. IDS
+B. Encryption
+C. Network segmentation
+D. Multi-Factor Authentication (MFA)
+✅ Correct Answer: Multi-Factor Authentication (MFA)
+📝 MFA blocks attackers even if passwords are compromised.
+________________________________________
+Q163. Which cloud service model requires the least customer management effort?
+A. IaaS
+B. PaaS
+C. FaaS
+D. Software as a Service (SaaS)
+✅ Correct Answer: Software as a Service (SaaS)
+📝 SaaS providers manage infrastructure, platform, and application.
+________________________________________
+Q164. What is the main advantage of a One-Time Pad (OTP) encryption scheme?
+A. Small key size
+B. Fast computation
+C. Easy implementation
+D. Perfect secrecy
+✅ Correct Answer: Perfect secrecy
+📝 OTP is theoretically unbreakable when used correctly.
+________________________________________
+Q165. What is a key benefit of containerization in cloud environments?
+A. Lower bandwidth usage
+B. Better hardware security
+C. Simplified application deployment
+D. Reduced storage costs
+✅ Correct Answer: Simplified application deployment
+📝 Containers package apps with dependencies for portability.
+________________________________________
+Q166. Which encryption algorithm is commonly used to protect data in transit?
+A. MD5
+B. DES
+C. RSA
+D. AES
+✅ Correct Answer: AES
+📝 AES is used within TLS to encrypt transmitted data.
+________________________________________
+Q167. What is a major risk of assigning static administrative privileges to database users?
+A. Higher cost
+B. Limited access
+C. Forgotten privileges
+D. Security depends entirely on login credentials
+✅ Correct Answer: Security depends entirely on login credentials
+📝 Static privileges increase damage if credentials are compromised.
+________________________________________
+
+
